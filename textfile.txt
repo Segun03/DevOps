@@ -1,1 +1,4 @@
 This is some textfile
+
+
+This is a new message from the local repository
