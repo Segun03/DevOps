@@ -4,6 +4,9 @@ This is some textfile
 
 Final test of the SSH connection
 
+
+It is working corectly Awesome
+
 Another one
 
 This is a new message from the local repository
