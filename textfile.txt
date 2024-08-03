@@ -2,6 +2,8 @@ Hi there! checking out SSH base connection.
 
 This is some textfile
 
+Final test of the SSH connection
+
 Another one
 
 This is a new message from the local repository
